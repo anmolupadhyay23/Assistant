@@ -1,0 +1,21 @@
+Testing of e-mail ---> Done
+Camera bug fixing ---> Done
+Launch command
+Weather --> API key error
+Message
+Jokes ---> Done(Non-interactive)
+Play pause music (Why not try making a music bot or music app and importing it entirely)
+Zoom ---> Done
+Set reminders for class
+Stopwatch/Timer
+E-mail to multiple people ---> Done
+E-mail from anyone to anyone ---> Done
+Type in notepad from voice ---> Done
+E-mail attachments
+Face detection (For sending email from my account) (Will use open cv2 for facial recognition) (Or for accessing re_aqua)
+Birthday ---> Done
+Add Birthday ---> Done
+Password ---> Done
+E-mail write or speech -> Done
+Two voices (We cannot add two voice. Even if we try to do it it output the voice of one of those)
+Auto execute on start (Possible with task scheduler)
